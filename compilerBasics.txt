@@ -1,0 +1,28 @@
+Compiler Design Notes: Introduction
+What is a Compiler?
+A compiler is a software tool that translates high-level programming languages into machine code or lower-level intermediate code. It takes source code written in a programming language and converts it into a form that can be executed by a computer's CPU.
+
+Purpose of a Compiler
+The main purpose of a compiler is to facilitate the execution of programs written in high-level languages by converting them into a format that can be understood and executed by a computer's hardware. It performs various tasks such as lexical analysis, syntax analysis, semantic analysis, code generation, and optimization to achieve this transformation.
+
+Components of a Compiler
+Lexical Analyzer: This component reads the source code character by character and groups them into meaningful units called tokens. It removes unnecessary whitespace and comments from the source code.
+
+Syntax Analyzer: Also known as the parser, this component analyzes the structure of the source code according to the grammar rules of the programming language. It verifies whether the code follows the syntax rules defined by the language.
+
+Semantic Analyzer: This component checks the semantics or meaning of the source code. It performs tasks such as type checking, ensuring that variables are used correctly, and managing symbol tables.
+
+Intermediate Code Generator: Some compilers generate an intermediate representation of the source code before generating machine code. This intermediate code is easier to analyze and optimize.
+
+Code Optimizer: This component improves the efficiency of the generated code by performing optimizations such as dead code elimination, loop optimization, and constant folding.
+
+Code Generator: Finally, the code generator translates the optimized intermediate code into machine code or target code, which can be executed by the computer's hardware.
+
+Importance of Compiler Design
+Compiler design is essential for several reasons:
+
+It enables programmers to write code in high-level languages, which are easier to understand and maintain than machine code.
+It allows code to be written once and executed on different platforms without modification, thanks to cross-compilation.
+It plays a crucial role in software development by providing tools for translating human-readable code into machine-readable code efficiently.
+Conclusion
+In summary, a compiler is a vital tool in software development that translates high-level programming languages into machine code. It consists of various components such as lexical analyzer, syntax analyzer, semantic analyzer, intermediate code generator, code optimizer, and code generator. Compiler design is crucial for enabling efficient and effective software development.
