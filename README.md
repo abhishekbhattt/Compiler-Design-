@@ -1,9 +1,10 @@
 # Compiler Design Repository
 
-![Compiler Design](https://media.giphy.com/media/xTiTno6PqJqgRP3R0Q/giphy.gif)
+![Compiler Design](https://img.shields.io/badge/Compiler-Design-orange)
+
+![Compiler Design](https://source.unsplash.com/400x300/?coding)
 
 Welcome to the Compiler Design repository! This repository serves as a comprehensive resource for learning and practicing compiler design concepts through practical code examples and resources.
-
 ## Overview
 
 Compiler design is a crucial topic in computer science, responsible for translating high-level programming languages into machine code. This repository aims to provide a thorough understanding of compiler design principles and techniques, catering to both beginners and intermediate learners.
