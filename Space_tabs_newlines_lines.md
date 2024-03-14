@@ -1,4 +1,4 @@
-**This particular lex code will find the number of lines , spaces , newlines and tabs int the string**
+**This particular lex code will find the number of lines , spaces , newlines and tabs in the string**
 ```lex
 %{
 int l=0,s=0,t=0,o=0;
